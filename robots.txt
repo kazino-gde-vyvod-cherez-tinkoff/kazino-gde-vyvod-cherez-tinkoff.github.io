@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-gde-vyvod-cherez-tinkoff.github.io
+Sitemap: https://kazino-gde-vyvod-cherez-tinkoff.github.io/sitemap.xml
